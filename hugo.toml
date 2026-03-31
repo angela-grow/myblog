@@ -1,0 +1,17 @@
+baseURL = "https://angela-grow.com/"
+languageCode = "en-us"
+title = "angela-grow"
+theme = "til"
+
+[params]
+  dateFormat = ":date_long"
+  showGraph = false
+
+[params.author]
+  name = "Angela"
+
+[params.home]
+  showRecentPosts = true
+  recentPostsLimit = 3
+  showRecentNotes = true
+  recentNotesLimit = 5
