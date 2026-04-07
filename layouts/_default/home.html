@@ -5,25 +5,19 @@
     </article>
   {{ end -}}
 
-  {{- if default true site.Params.home.showRecentPosts }}
-    {{- $posts := where site.RegularPages "Section" "posts" -}}
-    {{- with $posts.Limit (int (default 3 site.Params.home.recentPostsLimit)) }}
-      <section>
-        <h2>Recent posts</h2>
-
-        {{ partial "posts/list.html" . }}
-      </section>
-    {{ end -}}
+  {{- $personal := where site.RegularPages "Section" "personal" -}}
+  {{- with $personal.Limit 3 }}
+    <section>
+      <h2>Personal</h2>
+      {{ partial "posts/list.html" . }}
+    </section>
   {{ end -}}
 
-  {{- if default true site.Params.home.showRecentNotes }}
-    {{- $notes := where site.RegularPages "Section" "notes" -}}
-    {{- with $notes.Limit (int (default 5 site.Params.home.recentNotesLimit)) }}
-      <section>
-        <h2>Recent notes</h2>
-
-        {{ partial "notes/list.html" . }}
-      </section>
-    {{ end -}}
+  {{- $work := where site.RegularPages "Section" "work" -}}
+  {{- with $work.Limit 3 }}
+    <section>
+      <h2>Work</h2>
+      {{ partial "posts/list.html" . }}
+    </section>
   {{ end -}}
 {{ end }}

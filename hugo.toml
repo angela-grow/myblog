@@ -13,8 +13,17 @@ theme = "til"
 [params.footer]
   showThemeCredit = false
 
-[params.home]
-  showRecentPosts = true
-  recentPostsLimit = 3
-  showRecentNotes = true
-  recentNotesLimit = 5
+[[menus.main]]
+  name = "Personal"
+  url = "/personal/"
+  weight = 1
+
+[[menus.main]]
+  name = "Work"
+  url = "/work/"
+  weight = 2
+
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 3
