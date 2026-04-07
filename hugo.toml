@@ -10,6 +10,9 @@ theme = "til"
 [params.author]
   name = "Angela"
 
+[params.footer]
+  showThemeCredit = false
+
 [params.home]
   showRecentPosts = true
   recentPostsLimit = 3
