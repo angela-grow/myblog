@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on angela-grow</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://angela-grow.com/posts/</link>
     <description>Recent content in Posts on angela-grow</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://angela-grow.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;This is my first post. Hello world!&lt;/p&gt;</description>
+      <title>The Algorithm Doesn&#39;t Know Your Potential</title>
+      <link>https://angela-grow.com/posts/the-algorithm-doesnt-know-you/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://angela-grow.com/posts/the-algorithm-doesnt-know-you/</guid>
+      <description>Recruiting is changing at a rapid pace. Solutions like Juicebox AI can now automate filling a job end-to-end. Increasingly, as a human being, your discoverability is what separates you in the labour market. Your ability to get discovered is starting to be dependent on how you index on an algorithm. That is a little confronting.&#xA;When I used to play violin, I had a professor who told me that to make a good living as a professional violinist, you have to be in the top 0.</description>
     </item>
   </channel>
 </rss>

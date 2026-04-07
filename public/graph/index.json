@@ -1,15 +1,15 @@
 {
   "graph": {
-    "/posts/hello-world/": {
+    "/posts/the-algorithm-doesnt-know-you/": {
       "in": [],
       "out": []
     }
   },
   "pages": {
-    "/posts/hello-world/": {
-      "permalink": "/posts/hello-world/",
+    "/posts/the-algorithm-doesnt-know-you/": {
+      "permalink": "/posts/the-algorithm-doesnt-know-you/",
       "section": "posts",
-      "title": "Hello World"
+      "title": "The Algorithm Doesn't Know Your Potential"
     }
   }
 }
