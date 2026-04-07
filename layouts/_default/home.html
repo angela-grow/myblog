@@ -5,18 +5,10 @@
     </article>
   {{ end -}}
 
-  {{- $personal := where site.RegularPages "Section" "personal" -}}
-  {{- with $personal.Limit 3 }}
+  {{- $posts := where site.RegularPages "Section" "posts" -}}
+  {{- with $posts.Limit 3 }}
     <section>
-      <h2>Personal</h2>
-      {{ partial "posts/list.html" . }}
-    </section>
-  {{ end -}}
-
-  {{- $work := where site.RegularPages "Section" "work" -}}
-  {{- with $work.Limit 3 }}
-    <section>
-      <h2>Work</h2>
+      <h2>Recent posts</h2>
       {{ partial "posts/list.html" . }}
     </section>
   {{ end -}}

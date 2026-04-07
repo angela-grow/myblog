@@ -1,4 +1,15 @@
 {
-  "graph": {},
-  "pages": {}
+  "graph": {
+    "/posts/the-algorithm-doesnt-know-you/": {
+      "in": [],
+      "out": []
+    }
+  },
+  "pages": {
+    "/posts/the-algorithm-doesnt-know-you/": {
+      "permalink": "/posts/the-algorithm-doesnt-know-you/",
+      "section": "posts",
+      "title": "The Algorithm Doesn't Know Your Potential"
+    }
+  }
 }
