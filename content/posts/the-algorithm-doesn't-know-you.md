@@ -6,6 +6,8 @@ draft: false
 
 Recruiting is changing at a rapid pace. Solutions like [Juicebox AI](https://juicebox.ai/) can now automate filling a job end-to-end. Increasingly, as a human being, your discoverability is what separates you in the labour market. Your ability to get discovered is starting to be dependent on how you index on an algorithm. That is a little confronting.
 
+<!--more-->
+
 When I used to play violin, I had a professor who told me that to make a good living as a professional violinist, you have to be in the top 0.01% in the world. In almost every other profession, he said, you can be in the top 20-30% and still make a very good living.
 
 With AI, all white-collar professions are seemingly headed that way. We are slowly becoming professional artists. Professional athletes. And how do those people get discovered? They have to be talented. They have to work hard. But they also need access to the right networks - and someone on the other end who believes in their potential. You don't hire Lionel Messi at his prime - you hire him as a youngster training in a junior football club.
