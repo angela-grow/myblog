@@ -4,7 +4,7 @@ date: 2026-04-10
 draft: false
 ---
 
-I recently attended an event hosted by The Transaction & GTMshift. Great speakers - Cristina Cordova (Linear), Carilu Dietrich (ex-Atlassian), Maya Spivak (ex-Segment), Chris Degnan (former Snowflake CRO). The discussion was around  how the GTM playbook is changing with AI. Here are my takeaways. <!--more-->
+I recently attended an event hosted by [The Transaction](https://thetransactionpod.com/?utm_source=angela-grow) & [GTMshift](https://www.youtube.com/@gtmshift/?utm_source=angela-grow). Great speakers - [Cristina Cordova](https://www.linkedin.com/in/cristinajcordova/?utm_source=angela-grow) (Linear), [Carilu Dietrich](https://www.linkedin.com/in/cariludietrich/?utm_source=angela-grow) (ex-Atlassian), [Maya Spivak](https://www.linkedin.com/in/mayagrinbergspivak/?utm_source=angela-grow) (ex-Segment), [Chris Degnan](https://www.linkedin.com/in/chris-degnan/?utm_source=angela-grow) (former Snowflake CRO). The discussion was around  how the GTM playbook is changing with AI. Here are my takeaways. <!--more-->
 
 Enterprise buyers aren't on your website. They're on LinkedIn. Your brand isn't what lives on your homepage. It's what shows up in someone's feed - consistently, over time. Fortune 100 buyers follow everyone in their industry on LinkedIn. They don't click through. They scroll. Viral moments are nice. Consistency builds pipeline.
 
@@ -16,6 +16,6 @@ Don't hire from the category leader. The rep at the #1 company has the brand doi
 
 A personal reflection: we're all being told to become influencers now. Post 2-3x a week. Build your personal brand. There are LinkedIn ghostwriters specifically designed to help B2B founders go viral.
 
-Algorithmic discovery is increasingly how you get found — I wrote about this recently. But I keep coming back to Andrew Chen's Law of Shitty Clickthroughs. Every channel degrades when enough people start gaming it. LinkedIn is not immune to that. 
+Algorithmic discovery is increasingly how you get found — I [wrote about this](https://angela-grow.com/posts/the-algorithm-doesnt-know-you/) recently. But I keep coming back to Andrew Chen's [Law of Shitty Clickthroughs](https://andrewchen.com/the-law-of-shitty-clickthroughs/?utm_source=angela-grow). Every channel degrades when enough people start gaming it. LinkedIn is not immune to that. 
 
 As with all things growth and marketing - the playbook works - until everyone's running it. 
