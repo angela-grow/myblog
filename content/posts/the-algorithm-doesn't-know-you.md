@@ -4,7 +4,7 @@ date: 2026-04-06
 draft: false
 ---
 
-Recruiting is changing at a rapid pace. Solutions like [Juicebox AI](https://juicebox.ai/) can now automate filling a job end-to-end. Increasingly, as a human being, your discoverability is what separates you in the labour market. Your ability to get discovered is starting to be dependent on how you index on an algorithm. That is a little confronting.
+Recruiting is changing at a rapid pace. Solutions like [Juicebox AI](https://juicebox.ai/?utm_source=angela-grow) can now automate filling a job end-to-end. Increasingly, as a human being, your discoverability is what separates you in the labour market. Your ability to get discovered is starting to be dependent on how you index on an algorithm. That is a little confronting.
 
 <!--more-->
 
