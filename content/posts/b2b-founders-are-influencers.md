@@ -4,7 +4,7 @@ date: 2026-04-10
 draft: false
 ---
 
-I recently attended an event hosted by The Transaction & GTMshift. Great speakers - Cristina Cordova (Linear), Carilu Dietrich (ex-Atlassian), Maya Spivak (ex-Segment), Chris Degnan (former Snowflake CRO). The discussion was around  how the GTM playbook is changing with AI. Here are my takeaways. 
+I recently attended an event hosted by The Transaction & GTMshift. Great speakers - Cristina Cordova (Linear), Carilu Dietrich (ex-Atlassian), Maya Spivak (ex-Segment), Chris Degnan (former Snowflake CRO). The discussion was around  how the GTM playbook is changing with AI. Here are my takeaways. <!--more-->
 
 Enterprise buyers aren't on your website. They're on LinkedIn. Your brand isn't what lives on your homepage. It's what shows up in someone's feed - consistently, over time. Fortune 100 buyers follow everyone in their industry on LinkedIn. They don't click through. They scroll. Viral moments are nice. Consistency builds pipeline.
 
