@@ -1,5 +1,5 @@
 ---
-title: "The Algorithm Doesn't Know Your Potential"
+title: "The algorithm doesn't know your potential"
 date: 2026-04-06
 draft: false
 ---
