@@ -34,6 +34,24 @@
 {{- end }}
 {{ partialCached "head/css" . }}
 {{ partialCached "head/js" . }}
+<style>
+  /* Accent color for links in post content */
+  article.main a {
+    color: #b45309 !important;
+  }
+  article.main a:hover {
+    color: #92400e !important;
+  }
+  /* Accent color for post list links */
+  .not-prose a {
+    color: #b45309;
+    text-decoration-color: #fcd34d;
+  }
+  .not-prose a:hover {
+    color: #92400e;
+    text-decoration-color: #b45309;
+  }
+</style>
 {{- if or .Params.math site.Params.math }}
   {{ partial "head/math" . }}
 {{- end }}

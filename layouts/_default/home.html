@@ -3,7 +3,9 @@
     <article class="main">
       {{ . }}
     </article>
-  {{ end -}}
+  {{- else }}
+    <p class="text-slate-500 leading-relaxed" style="margin-top: 0;">Writing about growth, marketing, and humanity.</p>
+  {{- end }}
 
   {{- $posts := where site.RegularPages "Section" "posts" -}}
   {{- with $posts.Limit 3 }}

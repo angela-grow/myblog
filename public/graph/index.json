@@ -1,15 +1,1 @@
-{
-  "graph": {
-    "/posts/the-algorithm-doesnt-know-you/": {
-      "in": [],
-      "out": []
-    }
-  },
-  "pages": {
-    "/posts/the-algorithm-doesnt-know-you/": {
-      "permalink": "/posts/the-algorithm-doesnt-know-you/",
-      "section": "posts",
-      "title": "The Algorithm Doesn't Know Your Potential"
-    }
-  }
-}
+{"graph":{"/posts/b2b-founders-are-influencers/":{"in":[],"out":[]},"/posts/the-algorithm-doesnt-know-you/":{"in":[],"out":[]}},"pages":{"/posts/b2b-founders-are-influencers/":{"permalink":"/posts/b2b-founders-are-influencers/","section":"posts","title":"B2B Founders Are the New Influencers"},"/posts/the-algorithm-doesnt-know-you/":{"permalink":"/posts/the-algorithm-doesnt-know-you/","section":"posts","title":"The Algorithm Doesn't Know Your Potential"}}}
