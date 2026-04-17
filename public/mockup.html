@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width"/>
+<title>Color Palette Mockups</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, 'Lato', sans-serif; background: #e5e7eb; padding: 24px; }
+  h1 { font-size: 13px; text-transform: uppercase; letter-spacing: 0.08em; color: #6b7280; margin-bottom: 20px; }
+
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+
+  .card {
+    background: var(--bg);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+  }
+
+  .label {
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #6b7280;
+    padding: 8px 12px;
+    background: #f3f4f6;
+    border-bottom: 1px solid #e5e7eb;
+  }
+
+  .browser {
+    padding: 20px 24px 24px;
+    background: var(--bg);
+  }
+
+  /* Header */
+  .site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 12px;
+    margin-bottom: 20px;
+  }
+  .site-title { font-size: 15px; font-weight: 600; color: #0f172a; }
+  .nav { display: flex; gap: 14px; }
+  .nav a { font-size: 13px; color: #475569; text-decoration: none; }
+
+  /* Tagline */
+  .tagline { font-size: 13px; color: #64748b; margin-bottom: 20px; }
+
+  /* Section */
+  .section-title { font-size: 16px; font-weight: 700; color: #0f172a; margin-bottom: 14px; border-bottom: 1px solid var(--border); padding-bottom: 6px; }
+
+  /* Post items */
+  .post { margin-bottom: 14px; }
+  .post-title a { font-size: 14px; font-weight: 600; color: var(--accent); text-decoration: underline; text-decoration-color: var(--underline); text-underline-offset: 3px; }
+  .post-meta { font-size: 11px; color: #94a3b8; font-style: italic; margin-top: 2px; }
+  .post-summary { font-size: 12px; color: #475569; margin-top: 4px; line-height: 1.5; }
+
+  /* Current (Anthropic-like) */
+  .current { --bg: #faf9f7; --accent: #b45309; --underline: #fcd34d; --border: #e5e7eb; }
+
+  /* Sage green */
+  .sage { --bg: #faf9f7; --accent: #4a7c59; --underline: #a7c4b0; --border: #e5e7eb; }
+
+  /* Deep teal */
+  .teal { --bg: #faf9f7; --accent: #0f766e; --underline: #99d4cf; --border: #e5e7eb; }
+
+  /* Slate indigo */
+  .indigo { --bg: #faf9f7; --accent: #4338ca; --underline: #a5b4fc; --border: #e5e7eb; }
+
+  /* Burgundy */
+  .burgundy { --bg: #faf9f7; --accent: #9f1239; --underline: #fda4af; --border: #e5e7eb; }
+</style>
+</head>
+<body>
+
+<h1>Color palette options — angela-grow.com</h1>
+
+<div class="grid">
+
+  <!-- Current -->
+  <div class="card current">
+    <div class="label">Current — Amber (feels like Anthropic)</div>
+    <div class="browser">
+      <div class="site-header">
+        <span class="site-title">Angela Li</span>
+        <div class="nav"><a href="#">Posts</a><a href="#">About</a></div>
+      </div>
+      <p class="tagline">Writing about growth, marketing and humanity.</p>
+      <div class="section-title">Recent posts</div>
+      <div class="post">
+        <div class="post-title"><a href="#">B2B founders are the new influencers</a></div>
+        <div class="post-meta">April 10, 2026 · 2 min read</div>
+        <div class="post-summary">Here are my takeaways from a recent GTM event on how the playbook is changing with AI.</div>
+      </div>
+      <div class="post">
+        <div class="post-title"><a href="#">The algorithm doesn't know your potential</a></div>
+        <div class="post-meta">April 6, 2026 · 2 min read</div>
+        <div class="post-summary">Your discoverability is increasingly dependent on how you index on an algorithm.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Sage green -->
+  <div class="card sage">
+    <div class="label">Option A — Sage green</div>
+    <div class="browser">
+      <div class="site-header">
+        <span class="site-title">Angela Li</span>
+        <div class="nav"><a href="#">Posts</a><a href="#">About</a></div>
+      </div>
+      <p class="tagline">Writing about growth, marketing and humanity.</p>
+      <div class="section-title">Recent posts</div>
+      <div class="post">
+        <div class="post-title"><a href="#">B2B founders are the new influencers</a></div>
+        <div class="post-meta">April 10, 2026 · 2 min read</div>
+        <div class="post-summary">Here are my takeaways from a recent GTM event on how the playbook is changing with AI.</div>
+      </div>
+      <div class="post">
+        <div class="post-title"><a href="#">The algorithm doesn't know your potential</a></div>
+        <div class="post-meta">April 6, 2026 · 2 min read</div>
+        <div class="post-summary">Your discoverability is increasingly dependent on how you index on an algorithm.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Deep teal -->
+  <div class="card teal">
+    <div class="label">Option B — Deep teal</div>
+    <div class="browser">
+      <div class="site-header">
+        <span class="site-title">Angela Li</span>
+        <div class="nav"><a href="#">Posts</a><a href="#">About</a></div>
+      </div>
+      <p class="tagline">Writing about growth, marketing and humanity.</p>
+      <div class="section-title">Recent posts</div>
+      <div class="post">
+        <div class="post-title"><a href="#">B2B founders are the new influencers</a></div>
+        <div class="post-meta">April 10, 2026 · 2 min read</div>
+        <div class="post-summary">Here are my takeaways from a recent GTM event on how the playbook is changing with AI.</div>
+      </div>
+      <div class="post">
+        <div class="post-title"><a href="#">The algorithm doesn't know your potential</a></div>
+        <div class="post-meta">April 6, 2026 · 2 min read</div>
+        <div class="post-summary">Your discoverability is increasingly dependent on how you index on an algorithm.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Slate indigo -->
+  <div class="card indigo">
+    <div class="label">Option C — Slate indigo</div>
+    <div class="browser">
+      <div class="site-header">
+        <span class="site-title">Angela Li</span>
+        <div class="nav"><a href="#">Posts</a><a href="#">About</a></div>
+      </div>
+      <p class="tagline">Writing about growth, marketing and humanity.</p>
+      <div class="section-title">Recent posts</div>
+      <div class="post">
+        <div class="post-title"><a href="#">B2B founders are the new influencers</a></div>
+        <div class="post-meta">April 10, 2026 · 2 min read</div>
+        <div class="post-summary">Here are my takeaways from a recent GTM event on how the playbook is changing with AI.</div>
+      </div>
+      <div class="post">
+        <div class="post-title"><a href="#">The algorithm doesn't know your potential</a></div>
+        <div class="post-meta">April 6, 2026 · 2 min read</div>
+        <div class="post-summary">Your discoverability is increasingly dependent on how you index on an algorithm.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Burgundy -->
+  <div class="card burgundy">
+    <div class="label">Option D — Warm burgundy</div>
+    <div class="browser">
+      <div class="site-header">
+        <span class="site-title">Angela Li</span>
+        <div class="nav"><a href="#">Posts</a><a href="#">About</a></div>
+      </div>
+      <p class="tagline">Writing about growth, marketing and humanity.</p>
+      <div class="section-title">Recent posts</div>
+      <div class="post">
+        <div class="post-title"><a href="#">B2B founders are the new influencers</a></div>
+        <div class="post-meta">April 10, 2026 · 2 min read</div>
+        <div class="post-summary">Here are my takeaways from a recent GTM event on how the playbook is changing with AI.</div>
+      </div>
+      <div class="post">
+        <div class="post-title"><a href="#">The algorithm doesn't know your potential</a></div>
+        <div class="post-meta">April 6, 2026 · 2 min read</div>
+        <div class="post-summary">Your discoverability is increasingly dependent on how you index on an algorithm.</div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
