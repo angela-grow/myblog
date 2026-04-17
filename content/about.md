@@ -3,7 +3,7 @@ title: "About"
 ---
 I am relentlessly curious about humanity. 
 
-Before I became a marketer, I was a professional violinist, a trusts lawyer, a financial analyst, a salesperson, a software tester. I was genuinely curious about each of those worlds - what they could teach me about people and problems. 
+Before I became a growth marketer, I was a professional violinist, a trusts lawyer, a financial analyst, a salesperson, a software tester. I was genuinely curious about each of those worlds - what they could teach me about people and problems. 
 
 Within growth and marketing, I made the same choice deliberately. Brand, paid, partnerships, B2B, B2C, growth, different industries - I wanted to understand the whole craft, not just a corner of it. I want to build a block-shaped profile. Wide enough to see across a problem. Deep enough to be useful. 
 
