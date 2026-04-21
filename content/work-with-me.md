@@ -15,7 +15,7 @@ For founders who want senior strategic guidance without a full-time hire. Monthl
 
 ### Growth Sprint
 
-A focused 4-week engagement with a specific deliverable: go-to-market plan, paid acquisition audit, or channel strategy. Best for teams at an inflection point who need clarity fast.
+A focused 12-week engagement with a specific deliverable, for example: go-to-market plan, paid acquisition audit, channel strategy. Best for teams at an inflection point who need clarity fast.
 
 ## Let's talk
 
