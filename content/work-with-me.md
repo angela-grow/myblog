@@ -11,7 +11,7 @@ For founders who need a senior growth leader embedded in the team. I own strateg
 
 ### Advisory Retainer
 
-For founders who want senior strategic guidance without a full-time hire. Monthly strategy calls, async support and access to my network and operator relationships. Best for early-stage teams who need a thought partner and a shortcut to what works.
+For founders who want senior strategic guidance without a full-time hire. Weekly strategy calls, async support and access to my network and operator relationships. Best for early-stage teams who need a thought partner and a shortcut to what works.
 
 ### Growth Sprint
 
