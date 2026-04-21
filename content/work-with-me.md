@@ -1,20 +1,50 @@
 ---
 title: "Work with me"
 ---
-I'm Angela Li, a growth leader with 15+ years scaling acquisition and revenue across fintech, gaming and consumer apps. I work with a small number of founders and leadership teams as a fractional or advisory partner.
+I'm Angela Li — a growth leader with 15+ years scaling acquisition and revenue across fintech, gaming and consumer apps. I work with a small number of founders and growth teams at a time, using AI-powered execution to move faster and do more with less.
 
-### Fractional Head of Growth
+---
 
-For founders who need a senior growth leader embedded in the team. I own strategy and execution end-to-end, working closely with your product, data and creative teams. Best for companies scaling aggressively who need someone who's done it before.
+## Fractional Head of Growth
 
-### Advisory Retainer
+**You've raised. You're scaling. You don't have a growth leader yet.**
 
-For founders who want senior strategic guidance without a full-time hire. Weekly strategy calls, async support and access to my network and operator relationships. Best for early-stage teams who need a thought partner and a shortcut to what works.
+I embed in your team and own strategy and execution end-to-end. Fifteen years of operator experience, plus AI workflows that let a lean team move faster than one twice the size.
 
-### Growth Sprint
+Best for: Series A+ companies scaling aggressively without a senior growth hire.
 
-A focused 12-week engagement with a specific deliverable, for example: go-to-market plan, paid acquisition audit, channel strategy. Best for teams at an inflection point who need clarity fast.
+---
+
+## Advisory Retainer
+
+**You have growth momentum. You want someone experienced to help you press the advantage.**
+
+I act as the senior thought partner — pressure-testing strategy, unblocking decisions, and shortcutting the lessons that are expensive to learn on your runway. Weekly sessions and async support.
+
+Best for: Series A+ companies with a growth motion in place who need to accelerate it forward.
+
+---
+
+## AI Workflow & Automation Setup
+
+**Your team is capable. Your operations are slowing them down.**
+
+I design and build AI-powered workflows that eliminate execution drag — and teach your team to own them when I'm done. You leave with a capability inside your org, not a dependency on me.
+
+Best for: Teams who know AI should be changing how they work but need someone who's actually built it.
+
+---
+
+## Growth Sprint
+
+**You have a specific problem. You need a clear answer fast.**
+
+A focused engagement, one defined deliverable — GTM plan, acquisition audit, creative strategy. Scoped tightly, delivered quickly.
+
+Best for: Teams at inflection points who need clarity.
+
+---
 
 ## Let's talk
 
-Interested in working together? [Email me](mailto:angelali.main@gmail.com) or [book a call](https://calendly.com/angelali-main/30min).
+Interested in working together? [Email me](mailto:angelali.main@gmail.com) or [book a call](https://calendar.app.google/xJoLAJk5eaf85rXRA).
