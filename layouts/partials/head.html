@@ -51,6 +51,35 @@
     color: #0d9488;
     text-decoration-color: #0f766e;
   }
+
+  /* Header: teal name treatment */
+  a.site-title {
+    color: #0f766e;
+  }
+  a.site-title:hover {
+    color: #0d9488;
+  }
+
+  /* Work With Me: service tier cards */
+  .work-with-me article.main h4 {
+    border-left: 3px solid #0f766e;
+    padding-left: 0.75rem;
+    margin-top: 2rem;
+  }
+  .work-with-me article.main h4 + p {
+    background-color: #f0faf9;
+    border-radius: 0.5rem;
+    padding: 0.875rem 1rem;
+    margin-top: 0.5rem;
+    font-size: 0.95em;
+  }
+
+  /* Work With Me: "Let's talk" section */
+  .work-with-me article.main h3:last-of-type {
+    margin-top: 2.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #d1fae5;
+  }
 </style>
 {{- if or .Params.math site.Params.math }}
   {{ partial "head/math" . }}
