@@ -24,6 +24,6 @@ theme = "til"
   weight = 2
 
 [[menus.main]]
-  name = "Work With Me"
+  name = "Work with me"
   url = "/work-with-me/"
   weight = 3
