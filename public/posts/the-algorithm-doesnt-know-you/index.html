@@ -93,13 +93,23 @@
   .work-with-me article.main h3:not(:last-of-type) a {
     display: none;
   }
-  .work-with-me article.main h3:not(:last-of-type) + p {
-    border: 1px solid #e5e2de;
-    border-top: none;
-    border-radius: 0 0 0.5rem 0.5rem;
-    padding: 0.75rem 1rem 0.875rem 1rem;
+  .work-with-me article.main h3:not(:last-of-type) + p,
+  .work-with-me article.main h3:not(:last-of-type) + p + p,
+  .work-with-me article.main h3:not(:last-of-type) + p + p + p {
+    border-left: 1px solid #e5e2de;
+    border-right: 1px solid #e5e2de;
+    padding: 0.4rem 1rem;
     margin-top: 0;
+    margin-bottom: 0;
     font-size: 0.95em;
+  }
+  .work-with-me article.main h3:not(:last-of-type) + p {
+    padding-top: 0.75rem;
+  }
+  .work-with-me article.main h3:not(:last-of-type) + p + p + p {
+    border-bottom: 1px solid #e5e2de;
+    border-radius: 0 0 0.5rem 0.5rem;
+    padding-bottom: 0.875rem;
     box-shadow: 0 1px 4px rgba(0,0,0,0.06);
   }
 </style>
