@@ -5,7 +5,7 @@ I'm Angela Li — a growth leader based in the SF Bay Area with 15+ years drivin
 
 Most recently I led global user acquisition at Tala, a Series E fintech operating across 8+ international markets, managing an 8-figure budget and driving 60% YoY revenue growth.
 
-Before that I ran a $150M+ marketing P&L at Zynga, launching 6 games across brand, paid, lifecycle and social channels. I've also led growth at Meitu, Airtasker and advised high-growth startups including Vivian Health (acquired by IAC) and Glow.
+Before that I ran a $150M+ marketing P&L, launching 6 games across brand, paid, lifecycle and social channels. I've also led growth at Meitu, Airtasker and advised high-growth startups including Vivian Health (acquired by IAC) and Glow.
 
 I'm increasingly building my practice around AI-powered growth — using agentic workflows to move faster, personalize better and do more with leaner teams.
 
