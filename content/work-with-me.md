@@ -1,7 +1,7 @@
 ---
 title: "Work With Me"
 ---
-I'm Angela Li, a growth leader with 15+ years scaling acquisition and revenue at companies like Tala, Zynga and Meitu. I work with a small number of founders and leadership teams as a fractional or advisory partner.
+I'm Angela Li, a growth leader with 15+ years scaling acquisition and revenue at companies like Tala and Meitu. I work with a small number of founders and leadership teams as a fractional or advisory partner.
 
 ## Services
 
