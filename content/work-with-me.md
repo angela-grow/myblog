@@ -25,7 +25,7 @@ Best for: Series A+ companies with a growth motion in place who need to accelera
 
 ---
 
-## AI Workflow & Automation Setup
+## Agentic Workflow Optimization
 
 **Your team is capable. Your operations are slowing them down.**
 
