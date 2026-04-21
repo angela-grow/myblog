@@ -19,4 +19,4 @@ A focused 4-week engagement with a specific deliverable: go-to-market plan, paid
 
 ## Let's talk
 
-Interested in working together? Email me at angelali.main@gmail.com or [book a call](https://calendly.com).
+Interested in working together? [Email me](mailto:angelali.main@gmail.com) or [book a call](https://calendly.com).
