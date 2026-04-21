@@ -3,8 +3,6 @@ title: "Work with me"
 ---
 I'm Angela Li, a growth leader with 15+ years scaling acquisition and revenue across fintech, gaming and consumer apps. I work with a small number of founders and leadership teams as a fractional or advisory partner.
 
-## Services
-
 ### Fractional Head of Growth
 
 For founders who need a senior growth leader embedded in the team. I own strategy and execution end-to-end, working closely with your product, data and creative teams. Best for companies scaling aggressively who need someone who's done it before.
