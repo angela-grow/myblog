@@ -19,4 +19,4 @@ A focused 12-week engagement with a specific deliverable, for example: go-to-mar
 
 ## Let's talk
 
-Interested in working together? [Email me](mailto:angelali.main@gmail.com) or [book a call](https://calendly.com).
+Interested in working together? [Email me](mailto:angelali.main@gmail.com) or [book a call](https://calendly.com/angelali-main/30min).
