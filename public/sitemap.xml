@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://angela-grow.com/</loc><lastmod>2026-04-10T00:00:00+00:00</lastmod></url><url><loc>https://angela-grow.com/posts/b2b-founders-are-influencers/</loc><lastmod>2026-04-10T00:00:00+00:00</lastmod></url><url><loc>https://angela-grow.com/posts/</loc><lastmod>2026-04-10T00:00:00+00:00</lastmod></url><url><loc>https://angela-grow.com/posts/the-algorithm-doesnt-know-you/</loc><lastmod>2026-04-06T00:00:00+00:00</lastmod></url><url><loc>https://angela-grow.com/about/</loc></url><url><loc>https://angela-grow.com/categories/</loc></url><url><loc>https://angela-grow.com/graph/</loc></url><url><loc>https://angela-grow.com/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://angela-grow.com/</loc>
+    <lastmod>2026-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://angela-grow.com/posts/b2b-founders-are-influencers/</loc>
+    <lastmod>2026-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://angela-grow.com/posts/</loc>
+    <lastmod>2026-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://angela-grow.com/posts/the-algorithm-doesnt-know-you/</loc>
+    <lastmod>2026-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://angela-grow.com/about/</loc>
+  </url><url>
+    <loc>https://angela-grow.com/categories/</loc>
+  </url><url>
+    <loc>https://angela-grow.com/graph/</loc>
+  </url><url>
+    <loc>https://angela-grow.com/tags/</loc>
+  </url><url>
+    <loc>https://angela-grow.com/work-with-me/</loc>
+  </url>
+</urlset>

@@ -1,3 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Angela Li</title><link>https://angela-grow.com/</link><description>Recent content on Angela Li</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://angela-grow.com/index.xml" rel="self" type="application/rss+xml"/><item><title>B2B founders are the new influencers</title><link>https://angela-grow.com/posts/b2b-founders-are-influencers/</link><pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate><guid>https://angela-grow.com/posts/b2b-founders-are-influencers/</guid><description>&lt;p&gt;I recently attended an event hosted by &lt;a href="https://thetransactionpod.com/?utm_source=angela-grow"&gt;The Transaction&lt;/a&gt; &amp;amp; &lt;a href="https://www.youtube.com/@gtmshift/?utm_source=angela-grow"&gt;GTMshift&lt;/a&gt;. Great speakers - &lt;a href="https://www.linkedin.com/in/cristinajcordova/?utm_source=angela-grow"&gt;Cristina Cordova&lt;/a&gt; (Linear), &lt;a href="https://www.linkedin.com/in/cariludietrich/?utm_source=angela-grow"&gt;Carilu Dietrich&lt;/a&gt; (ex-Atlassian), &lt;a href="https://www.linkedin.com/in/mayagrinbergspivak/?utm_source=angela-grow"&gt;Maya Spivak&lt;/a&gt; (ex-Segment), &lt;a href="https://www.linkedin.com/in/chris-degnan/?utm_source=angela-grow"&gt;Chris Degnan&lt;/a&gt; (former Snowflake CRO). The discussion was around how the GTM playbook is changing with AI. Here are my takeaways.&lt;/p&gt;</description></item><item><title>The algorithm doesn't know your potential</title><link>https://angela-grow.com/posts/the-algorithm-doesnt-know-you/</link><pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate><guid>https://angela-grow.com/posts/the-algorithm-doesnt-know-you/</guid><description>&lt;p&gt;Recruiting is changing at a rapid pace. Solutions like &lt;a href="https://juicebox.ai/?utm_source=angela-grow"&gt;Juicebox AI&lt;/a&gt; can now automate filling a job end-to-end. Increasingly, as a human being, your discoverability is what separates you in the labour market. Your ability to get discovered is starting to be dependent on how you index on an algorithm. That is a little confronting.&lt;/p&gt;</description></item><item><title>About</title><link>https://angela-grow.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://angela-grow.com/about/</guid><description>&lt;p&gt;I am relentlessly curious about humanity.&lt;/p&gt;
-&lt;p&gt;Before I became a growth marketer, I was a professional violinist, a trusts lawyer, a financial analyst, a salesperson, a software tester. I was genuinely curious about each of those worlds - what they could teach me about people and problems.&lt;/p&gt;
-&lt;p&gt;Within growth and marketing, I made the same choice deliberately. Brand, paid, partnerships, B2B, B2C, growth, different industries - I wanted to understand the whole craft, not just a corner of it. I want to build a block-shaped profile. Wide enough to see across a problem. Deep enough to be useful.&lt;/p&gt;</description></item><item><title>Content Graph</title><link>https://angela-grow.com/graph/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://angela-grow.com/graph/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angela Li</title>
+    <link>https://angela-grow.com/</link>
+    <description>Recent content on Angela Li</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://angela-grow.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>B2B founders are the new influencers</title>
+      <link>https://angela-grow.com/posts/b2b-founders-are-influencers/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://angela-grow.com/posts/b2b-founders-are-influencers/</guid>
+      <description>&lt;p&gt;I recently attended an event hosted by &lt;a href=&#34;https://thetransactionpod.com/?utm_source=angela-grow&#34;&gt;The Transaction&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.youtube.com/@gtmshift/?utm_source=angela-grow&#34;&gt;GTMshift&lt;/a&gt;. Great speakers - &lt;a href=&#34;https://www.linkedin.com/in/cristinajcordova/?utm_source=angela-grow&#34;&gt;Cristina Cordova&lt;/a&gt; (Linear), &lt;a href=&#34;https://www.linkedin.com/in/cariludietrich/?utm_source=angela-grow&#34;&gt;Carilu Dietrich&lt;/a&gt; (ex-Atlassian), &lt;a href=&#34;https://www.linkedin.com/in/mayagrinbergspivak/?utm_source=angela-grow&#34;&gt;Maya Spivak&lt;/a&gt; (ex-Segment), &lt;a href=&#34;https://www.linkedin.com/in/chris-degnan/?utm_source=angela-grow&#34;&gt;Chris Degnan&lt;/a&gt; (former Snowflake CRO). The discussion was around  how the GTM playbook is changing with AI. Here are my takeaways.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The algorithm doesn&#39;t know your potential</title>
+      <link>https://angela-grow.com/posts/the-algorithm-doesnt-know-you/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://angela-grow.com/posts/the-algorithm-doesnt-know-you/</guid>
+      <description>&lt;p&gt;Recruiting is changing at a rapid pace. Solutions like &lt;a href=&#34;https://juicebox.ai/?utm_source=angela-grow&#34;&gt;Juicebox AI&lt;/a&gt; can now automate filling a job end-to-end. Increasingly, as a human being, your discoverability is what separates you in the labour market. Your ability to get discovered is starting to be dependent on how you index on an algorithm. That is a little confronting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://angela-grow.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://angela-grow.com/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Angela Li — a growth leader based in the SF Bay Area with 15+ years driving acquisition, engagement and revenue at scale.&lt;/p&gt;&#xA;&lt;p&gt;Most recently I led global user acquisition at Tala, a Series E fintech operating across 8+ international markets, managing an 8-figure budget and driving 60% YoY revenue growth.&lt;/p&gt;&#xA;&lt;p&gt;Before that I ran a $150M+ marketing P&amp;amp;L at Zynga, launching 6 games across brand, paid, lifecycle and social channels. I&amp;rsquo;ve also led growth at Meitu, Airtasker and advised high-growth startups including Vivian Health (acquired by IAC) and Glow.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Content Graph</title>
+      <link>https://angela-grow.com/graph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://angela-grow.com/graph/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Work With Me</title>
+      <link>https://angela-grow.com/work-with-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://angela-grow.com/work-with-me/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Angela Li, a growth leader with 15+ years scaling acquisition and revenue at companies like Tala, Zynga and Meitu. I work with a small number of founders and leadership teams as a fractional or advisory partner.&lt;/p&gt;&#xA;&lt;h3 id=&#34;services&#34; class=&#34;scroll-mt-8 group&#34;&gt;&#xA;  Services&#xA;  &#xA;    &lt;a href=&#34;#services&#34;&#xA;        class=&#34;no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block&#34;&#xA;        aria-hidden=&#34;true&#34; title=&#34;Link to this heading&#34; tabindex=&#34;-1&#34;&gt;&#xA;        &lt;svg&#xA;  xmlns=&#34;http://www.w3.org/2000/svg&#34;&#xA;  width=&#34;16&#34;&#xA;  height=&#34;16&#34;&#xA;  fill=&#34;none&#34;&#xA;  stroke=&#34;currentColor&#34;&#xA;  stroke-linecap=&#34;round&#34;&#xA;  stroke-linejoin=&#34;round&#34;&#xA;  stroke-width=&#34;2&#34;&#xA;  class=&#34;lucide lucide-link w-4 h-4 block&#34;&#xA;  viewBox=&#34;0 0 24 24&#34;&#xA;&gt;&#xA;  &lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; /&gt;&#xA;  &lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; /&gt;&#xA;&lt;/svg&gt;&#xA;&#xA;    &lt;/a&gt;&#xA;  &#xA;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;fractional-head-of-growth&#34; class=&#34;scroll-mt-8 group&#34;&gt;&#xA;  Fractional Head of Growth&#xA;  &#xA;    &lt;a href=&#34;#fractional-head-of-growth&#34;&#xA;        class=&#34;no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block&#34;&#xA;        aria-hidden=&#34;true&#34; title=&#34;Link to this heading&#34; tabindex=&#34;-1&#34;&gt;&#xA;        &lt;svg&#xA;  xmlns=&#34;http://www.w3.org/2000/svg&#34;&#xA;  width=&#34;16&#34;&#xA;  height=&#34;16&#34;&#xA;  fill=&#34;none&#34;&#xA;  stroke=&#34;currentColor&#34;&#xA;  stroke-linecap=&#34;round&#34;&#xA;  stroke-linejoin=&#34;round&#34;&#xA;  stroke-width=&#34;2&#34;&#xA;  class=&#34;lucide lucide-link w-4 h-4 block&#34;&#xA;  viewBox=&#34;0 0 24 24&#34;&#xA;&gt;&#xA;  &lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; /&gt;&#xA;  &lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; /&gt;&#xA;&lt;/svg&gt;&#xA;&#xA;    &lt;/a&gt;&#xA;  &#xA;&lt;/h4&gt;&#xA;&lt;p&gt;For founders who need a senior growth leader embedded in the team. I own strategy and execution end-to-end, working closely with your product, data and creative teams. Best for companies scaling aggressively who need someone who&amp;rsquo;s done it before.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
