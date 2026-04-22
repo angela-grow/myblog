@@ -1,7 +1,7 @@
 ---
 title: "Work with me"
 ---
-I'm Angela Li — a growth leader with 15+ years scaling acquisition and revenue across fintech, gaming and consumer apps. I work with a small number of founders and growth teams at a time, using AI-powered execution to move faster and do more with less.
+I'm Angela Li - a growth leader with 15+ years scaling acquisition and revenue across fintech, gaming, healthtech, consumer and B2B products. I work with a small number of founders and growth teams at a time, using AI-powered execution to move faster and do more with less.
 
 ---
 
