@@ -31,15 +31,3 @@ Algorithmic discovery is increasingly how you get found - I [wrote about how thi
 As with all things growth and marketing - the playbook works - until everyone's running it.
 
 If you're thinking about how to build a GTM motion that outlasts the current playbook, [I work with founders on exactly this](/work-with-me).
-
----
-
-## Frequently Asked Questions
-
-**Why are B2B founders becoming influencers?**
-
-Enterprise buyers increasingly discover products through LinkedIn feeds rather than search or outbound. Founder-led content builds trust over time because it feels like peer-to-peer communication rather than advertising - and one paid influencer typically generates 5 to 20 organic mentions from peers in the same network.
-
-**What is the Law of Shitty Clickthroughs and why does it matter for B2B marketing?**
-
-Andrew Chen's Law of Shitty Clickthroughs states that every marketing channel sees declining returns as more people adopt it. As more B2B founders post 2-3x per week, feeds saturate and engagement drops. The implication: authentic differentiation matters more than volume, and genuine relationships outlast any algorithm.

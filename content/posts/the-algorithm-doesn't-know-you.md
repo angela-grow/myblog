@@ -27,15 +27,3 @@ A team of Harvard researchers put a number on this. They estimated that there ar
 The search algorithm is extraordinarily good at finding what it's been told to look for. But what doesn't get prompted falls through the cracks. In some situations, fully autonomous hiring is enough. However, to build exceptional companies, we need to find exceptional candidates, and those candidates don't always show up in a search algorithm.
 
 The same dynamic plays out in marketing - AI is changing how companies get discovered, not just how they hire. If you're thinking about building a growth motion that doesn't rely entirely on algorithmic visibility, [I work with founders on exactly this](/work-with-me).
-
----
-
-## Frequently Asked Questions
-
-**What are "hidden workers" and why do they matter for hiring?**
-
-Hidden workers are people actively seeking employment but invisible to automated hiring systems - often because they lack specific keywords or credentials that algorithms screen for, even when they have the skills and drive to succeed. Harvard research estimates 27 million hidden workers exist in the US alone, and companies that hire them are 36% less likely to face talent shortages.
-
-**How does AI recruiting automation create blind spots in hiring?**
-
-AI recruiting tools optimize for findability - they surface candidates whose profiles match specified criteria well. This works efficiently for common roles, but systematically filters out people with non-linear career paths, adjacent experience, or unconventional backgrounds. The algorithm finds what you tell it to look for; exceptional candidates often don't fit the template.
