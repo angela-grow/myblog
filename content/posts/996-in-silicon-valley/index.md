@@ -2,6 +2,7 @@
 title: "996 in Silicon Valley"
 date: 2026-04-23
 draft: false
+summary: "The Bay Area startup culture that once prided itself on unlimited PTO is starting to feel a lot like Chinese tech circa 2018."
 ---
 
 ![Corgi Cafe San Francisco](corgi-cafe.jpg)
