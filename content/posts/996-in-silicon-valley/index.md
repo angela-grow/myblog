@@ -2,13 +2,14 @@
 title: "996 in Silicon Valley"
 date: 2026-04-23
 draft: false
+summary: "The Bay Area startup culture that once prided itself on unlimited PTO is starting to feel a lot like Chinese tech circa 2018."
 ---
-
-The Bay Area startup culture that once prided itself on unlimited PTO is starting to feel a lot like Chinese tech circa 2018. <!--more-->
 
 ![Corgi Cafe San Francisco](corgi-cafe.jpg)
 
 _Photo taken at Corgi Cafe in San Francisco at 8pm on a Tuesday. Corgi is a 24/7 cafe opened by Corgi Insurance, a startup._
+
+The Bay Area startup culture that once prided itself on unlimited PTO is starting to feel a lot like Chinese tech circa 2018.
 
 There are two concepts that arose in Chinese tech around that time: involution (内卷) and lying flat (躺平). If you work in a San Francisco startup right now, you may find yourself living one reality or the other.
 
