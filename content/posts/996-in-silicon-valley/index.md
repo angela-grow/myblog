@@ -25,6 +25,6 @@ In China, the countermovement that followed involution was lying flat (躺平). 
 
 As AI leads to more involution, more 996, more burnout and perhaps more limited opportunities - I suspect we may see a version of this playing out not just in Silicon Valley, but across the world.
 
-Many people will burn out. A lot of this is not sustainable. My hope is that over time, there will be some breathing room for everyone. What Nikhyal Singhal discussed recently on [Lenny's podcast](https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble) is the optimistic version I'm hoping - perhaps we only need to go through this catch-up phase for a few years.
+Many people will burn out. A lot of this is not sustainable. My hope is that over time, there will be some breathing room for everyone. What Nikhyal Singhal discussed recently on [Lenny's podcast](https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble) is the optimistic version I'm hoping for - perhaps we only need to go through this catch-up phase for a few years.
 
 The same AI pressures reshaping how people work are also reshaping how companies grow and go to market - I wrote about [why B2B founders are becoming the new influencers](/posts/b2b-founders-are-influencers/) recently. If you're building through this transition, [I work with founders on growth strategy and AI-powered execution](/work-with-me).
