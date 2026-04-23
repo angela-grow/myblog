@@ -2,14 +2,13 @@
 title: "996 in Silicon Valley"
 date: 2026-04-23
 draft: false
-summary: "The Bay Area startup culture that once prided itself on unlimited PTO is starting to feel a lot like Chinese tech circa 2018."
 ---
+
+The Bay Area startup culture that once prided itself on unlimited PTO is starting to feel a lot like Chinese tech circa 2018. <!--more-->
 
 ![Corgi Cafe San Francisco](corgi-cafe.jpg)
 
 _Photo taken at Corgi Cafe in San Francisco at 8pm on a Tuesday. Corgi is a 24/7 cafe opened by Corgi Insurance, a startup._
-
-The Bay Area startup culture that once prided itself on unlimited PTO is starting to feel a lot like Chinese tech circa 2018. <!--more-->
 
 There are two concepts that arose in Chinese tech around that time: involution (内卷) and lying flat (躺平). If you work in a San Francisco startup right now, you may find yourself living one reality or the other.
 
@@ -24,7 +23,3 @@ In China, the countermovement that followed involution was lying flat (躺平). 
 As AI leads to more involution, more 996, more burnout and perhaps more limited opportunities - I suspect we may see a version of this playing out not just in Silicon Valley, but across the world.
 
 Many people will burn out. A lot of this is not sustainable. My hope is that over time, there will be some breathing room for everyone. What Nikhyal Singhal discussed recently on [Lenny's podcast](https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble) is the optimistic version I'm hoping - perhaps we only need to go through this catch-up phase for a few years.
-
-![Corgi Cafe San Francisco](corgi-cafe.jpg)
-
-_Photo taken at Corgi Cafe in San Francisco at 8pm on a Tuesday. Corgi is a 24/7 cafe opened by Corgi Insurance, a startup._
