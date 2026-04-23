@@ -5,9 +5,9 @@
 <meta name="viewport" content="width=device-width" />
 <title>
   {{- if .IsHome }}
-    {{ site.Title }}
+    {{- or site.Params.homeTitle site.Title }}
   {{- else }}
-    {{ printf "%s | %s" .Title site.Title }}
+    {{- printf "%s | %s" .Title site.Title }}
   {{- end }}
 </title>
 {{- with $description }}

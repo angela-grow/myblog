@@ -3,12 +3,21 @@ languageCode = "en-us"
 title = "Angela Li"
 theme = "til"
 
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
 [params]
   dateFormat = ":date_long"
   showGraph = false
+  homeTitle = "Angela Li - Senior Growth Leader & AI Growth Advisor"
+  description = "Senior Growth Leader & AI-Powered Growth Advisor. 15+ years scaling acquisition and revenue across fintech, gaming, healthtech, consumer and B2B products."
 
 [params.author]
-  name = "Angela"
+  name = "Angela Li"
+  jobTitle = "Senior Growth Leader & AI-Powered Growth Advisor"
+  description = "Angela Li is a Senior Growth Leader and AI-Powered Growth Advisor with 15+ years scaling acquisition and revenue across fintech, gaming, healthtech, consumer and B2B products. Based in the SF Bay Area, available for fractional and advisory engagements."
+  knowsAbout = ["growth marketing", "AI-powered growth", "user acquisition", "lifecycle marketing", "fintech", "B2B SaaS", "healthtech", "gaming", "fractional growth advisory", "Series A growth strategy"]
 
 [params.footer]
   showThemeCredit = false

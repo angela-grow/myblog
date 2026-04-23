@@ -1,5 +1,6 @@
 ---
 title: "About"
+description: "Angela Li - Senior Growth Leader & AI-Powered Growth Advisor. 15+ years scaling acquisition and revenue across fintech, gaming, B2B. Based in the SF Bay Area."
 ---
 I'm Angela Li - a growth leader based in the SF Bay Area with 15+ years driving acquisition, engagement and revenue at scale.
 

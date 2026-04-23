@@ -1,0 +1,23 @@
+{{- $a := site.Params.author -}}
+{{- $data := dict
+  "@context" "https://schema.org"
+  "@type" "Person"
+  "name" ( or $a.name "Angela Li" )
+  "url" site.BaseURL
+-}}
+{{- with $a.jobTitle -}}
+  {{- $data = merge $data (dict "jobTitle" .) -}}
+{{- end -}}
+{{- with $a.description -}}
+  {{- $data = merge $data (dict "description" .) -}}
+{{- end -}}
+{{- with $a.knowsAbout -}}
+  {{- $data = merge $data (dict "knowsAbout" .) -}}
+{{- end -}}
+{{- with $a.linkedIn -}}
+  {{- $data = merge $data (dict "sameAs" (slice .)) -}}
+{{- end -}}
+{{- with site.GetPage "/about" -}}
+  {{- $data = merge $data (dict "mainEntityOfPage" .Permalink) -}}
+{{- end -}}
+{{- return $data -}}

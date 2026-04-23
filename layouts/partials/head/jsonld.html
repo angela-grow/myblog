@@ -16,3 +16,18 @@
 <script type="application/ld+json">
 {{ jsonify (dict "indent" "  ") $data | safeJS }}
 </script>
+{{- if or .IsHome (eq .RelPermalink "/about/") }}
+<script type="application/ld+json">
+{{ jsonify (dict "indent" "  ") (partial "head/jsonld/person" .) | safeJS }}
+</script>
+{{- end }}
+{{- if .IsHome }}
+<script type="application/ld+json">
+{{ jsonify (dict "indent" "  ") (partial "head/jsonld/website" .) | safeJS }}
+</script>
+{{- end }}
+{{- if and .IsPage (eq .Section "posts") }}
+<script type="application/ld+json">
+{{ jsonify (dict "indent" "  ") (partial "head/jsonld/breadcrumb" .) | safeJS }}
+</script>
+{{- end }}

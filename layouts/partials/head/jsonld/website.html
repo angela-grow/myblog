@@ -1,6 +1,15 @@
 {{- $data := dict
+  "@context" "https://schema.org"
   "@type" "WebSite"
   "url" site.BaseURL
   "name" ( site.Title | plainify | htmlUnescape | chomp | title )
+  "potentialAction" (dict
+    "@type" "SearchAction"
+    "target" (dict
+      "@type" "EntryPoint"
+      "urlTemplate" (printf "%s?q={search_term_string}" (absURL "/posts/"))
+    )
+    "query-input" "required name=search_term_string"
+  )
 -}}
 {{- return $data -}}

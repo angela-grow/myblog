@@ -2,7 +2,9 @@
 title: "996 in Silicon Valley"
 date: 2026-04-23
 draft: false
+description: "How AI-driven productivity expectations are bringing 996 work culture to Silicon Valley - and what the Chinese concepts of involution and lying flat tell us about what comes next."
 summary: "The Bay Area startup culture that once prided itself on unlimited PTO is starting to feel a lot like Chinese tech circa 2018."
+images: ["/posts/996-in-silicon-valley/corgi-cafe.jpg"]
 ---
 
 ![Corgi Cafe San Francisco](corgi-cafe.jpg)
@@ -24,3 +26,5 @@ In China, the countermovement that followed involution was lying flat (躺平). 
 As AI leads to more involution, more 996, more burnout and perhaps more limited opportunities - I suspect we may see a version of this playing out not just in Silicon Valley, but across the world.
 
 Many people will burn out. A lot of this is not sustainable. My hope is that over time, there will be some breathing room for everyone. What Nikhyal Singhal discussed recently on [Lenny's podcast](https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble) is the optimistic version I'm hoping - perhaps we only need to go through this catch-up phase for a few years.
+
+The same AI pressures reshaping how people work are also reshaping how companies grow and go to market - I wrote about [why B2B founders are becoming the new influencers](/posts/b2b-founders-are-influencers/) recently. If you're building through this transition, [I work with founders on growth strategy and AI-powered execution](/work-with-me).
