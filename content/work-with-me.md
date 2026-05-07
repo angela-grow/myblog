@@ -9,7 +9,7 @@ I'm Angela Li - a growth leader with 15+ years scaling acquisition and revenue a
 
 **You've raised. You're scaling. You don't have a growth leader yet.**
 
-I embed in your team and own strategy and execution end-to-end. Fifteen years of operator experience, plus AI workflows that let a lean team move faster than one twice the size.
+I embed in your team and own strategy and execution end-to-end. Fifteen years of builder experience, plus AI workflows that let a lean team move faster than one twice the size.
 
 Best for: Series A+ companies scaling aggressively without a senior growth hire.
 
