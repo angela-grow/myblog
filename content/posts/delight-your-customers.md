@@ -2,7 +2,7 @@
 title: "Delight your customers"
 date: 2026-05-07
 draft: false
-description: "As software commoditizes, functional moats get harder to defend. The companies that win will be the ones that made you feel something."
+description: "As the cost of writing software approaches zero, most digital products will become commodities. The companies that win won't just have the best features - they'll be the ones that make you feel."
 summary: "As the cost of writing software approaches zero, most digital products will become commodities. The companies that win won't just have the best features - they'll be the ones that make you feel."
 ---
 
