@@ -2,7 +2,7 @@
 title: "Delight your customers"
 date: 2026-05-07
 draft: false
-description: "As software commoditizes, functional moats get harder to defend. The companies that win will be the ones that made you feel something."
+description: "As the cost of writing software approaches zero, most digital products will become commodities. The companies that win won't just have the best features - they'll be the ones that make you feel."
 summary: "As the cost of writing software approaches zero, most digital products will become commodities. The companies that win won't just have the best features - they'll be the ones that make you feel."
 ---
 
@@ -14,7 +14,7 @@ So where does differentiation go? Let's look outside software for some inspirati
 
 Think about your favorite restaurant. There are probably dozens of places serving the same cuisine, at the same price, within walking distance. Why do you go back to that one? Is it the food? The vibe? Or is it the fact that the owner remembers you, and once dropped a free appetizer on your table for no reason at all?
 
-Think about your favorite soft drink. Is it the taste? The way it looks? The way it feels in your hand? The sound of the can opening after a long, stressful work day?
+Think about your favorite soft drink. Is it the taste? The way it looks? The way it feels in your hand? The sound of the can opening after a long, stressful work day? Somehow a Coca-Cola became tasting "happiness" along the way.
 
 Think about your bank. Their interest rate is the same as everywhere else. Could the reason for sticking with them be the support rep who answered in 30 seconds when your wallet was stolen, and actually seemed to care?
 
