@@ -35,16 +35,6 @@ Best for: Teams who know AI should be changing how they work but need someone wh
 
 ---
 
-## Growth Sprint
-
-**You have a specific problem. You need a clear answer fast.**
-
-A focused engagement, one defined deliverable. For example - GTM plan, acquisition audit, creative strategy. Scoped tightly, delivered quickly.
-
-Best for: Teams at inflection points who need clarity.
-
----
-
 ## Let's talk
 
 Interested in working together? [Email me](mailto:angelali.main@gmail.com) or [book a call](https://calendar.app.google/xJoLAJk5eaf85rXRA).
