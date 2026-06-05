@@ -3,7 +3,7 @@ title: "The skill that matters most"
 date: 2026-06-05
 draft: false
 description: "AI has changed the rules of the game. The most important skill going forward isn't efficiency or differentiation — it's reinvention."
-summary: "AI has increased labor supply, which means more competition and less salary. The answer isn't efficiency or differentiation alone — it's the ability to reinvent yourself continuously, before your current edge runs out of road."
+summary: "AI has increased labor supply, which means more competition and less salary. The answer isn't efficiency or differentiation alone - it's the ability to reinvent yourself continuously, before your current edge runs out of road."
 ---
 
 AI has increased labor supply. If we go back to Economics 101 - when supply increases, price goes down. Meaning - more competition for the same roles and less salary for each role.
