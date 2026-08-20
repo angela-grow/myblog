@@ -9,7 +9,7 @@ I work with a small number of founders and growth teams at a time, using AI-powe
 
 **You've raised. You're scaling. You don't have a growth leader yet.**
 
-I embed in your team and own strategy and execution end-to-end. Fifteen years of builder experience, plus AI workflows that let a lean team move faster than one twice the size.
+I embed in your team and advise on strategy and execution - from acquisition to retention and monetization. Fifteen years of builder experience, plus AI workflows that let a lean team move faster than one twice the size.
 
 Best for: Series A+ companies scaling aggressively without a senior growth hire.
 
@@ -17,7 +17,7 @@ Best for: Series A+ companies scaling aggressively without a senior growth hire.
 
 ## Turn Your Team into Marketing Engineers
 
-**Your team is capable. Your operations are slowing them down.**
+**Your team is capable. Turn them into AI-natives.**
 
 I teach teams how to build AI workflows that eliminate execution drag - so that your team becomes a 10x growth and marketing team.
 
