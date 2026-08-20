@@ -1,11 +1,11 @@
 ---
 title: "Work with me"
 ---
-I'm Angela Li - a growth leader with 15+ years scaling acquisition and revenue across fintech, gaming, healthtech, consumer and B2B products. I work with a small number of founders and growth teams at a time, using AI-powered execution to move faster and do more with less.
+I work with a small number of founders and growth teams at a time, using AI-powered execution to move faster and do more with less.
 
 ---
 
-## Fractional Head of Growth
+## Fractional Head of Growth / Advisory
 
 **You've raised. You're scaling. You don't have a growth leader yet.**
 
@@ -15,21 +15,11 @@ Best for: Series A+ companies scaling aggressively without a senior growth hire.
 
 ---
 
-## Advisory Retainer
-
-**You have growth momentum. You want someone experienced to help you press the advantage.**
-
-I act as the senior thought partner - pressure-testing strategy, unblocking decisions and shortcutting the lessons that are expensive to learn on your runway. Weekly sessions and async support.
-
-Best for: Series A+ companies with a growth motion in place who need to accelerate it forward.
-
----
-
-## Agentic Workflow Optimization
+## Turn Your Team into Marketing Engineers
 
 **Your team is capable. Your operations are slowing them down.**
 
-I design and build AI-powered workflows that eliminate execution drag - and teach your team to own them when I'm done. You leave with a capability inside your org, not a dependency on me.
+I teach teams how to build AI workflows that eliminate execution drag - so that your team becomes a 10x growth and marketing team.
 
 Best for: Teams who know AI should be changing how they work but need someone who's actually built it.
 
