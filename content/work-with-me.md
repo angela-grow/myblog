@@ -21,7 +21,7 @@ Best for: Series A+ companies scaling aggressively without a senior growth hire.
 
 I teach teams how to build AI workflows that eliminate execution drag - so that your team becomes a 10x growth and marketing team.
 
-Best for: Teams who know AI should be changing how they work but need someone who's actually built it.
+Best for: Teams who know AI should be changing how they work and want to be inspired by real builds relevant to their day-to-day.
 
 ---
 
