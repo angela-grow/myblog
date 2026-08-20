@@ -1,5 +1,9 @@
 {
   "graph": {
+    "/posts/996-in-silicon-valley/": {
+      "in": [],
+      "out": []
+    },
     "/posts/b2b-founders-are-influencers/": {
       "in": [],
       "out": []
@@ -10,6 +14,11 @@
     }
   },
   "pages": {
+    "/posts/996-in-silicon-valley/": {
+      "permalink": "/posts/996-in-silicon-valley/",
+      "section": "posts",
+      "title": "996 in Silicon Valley"
+    },
     "/posts/b2b-founders-are-influencers/": {
       "permalink": "/posts/b2b-founders-are-influencers/",
       "section": "posts",
