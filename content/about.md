@@ -8,6 +8,6 @@ I lead global B2B and B2C growth at a Series-E fintech, operating across 7 inter
 
 Previously, I ran a $150M+ annual marketing P&L, launching multiple apps across brand, paid, lifecycle and social channels. I've also led growth at listed companies such as Meitu and Airtasker, and advised early-stage startups including Vivian Health (acquired by IAC) and Glow.
 
-With AI, I'm increasingly building growth marketing using agentic workflows to move faster and personalize better.
+With AI, I'm increasingly building growth marketing workflows to be faster and more personalized.
 
 I write about growth, marketing and where I think it's all heading. I'm also available for fractional and advisory work - [see how I can help](/work-with-me).
