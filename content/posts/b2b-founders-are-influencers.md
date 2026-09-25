@@ -26,7 +26,7 @@ I recently attended an event hosted by [The Transaction](https://thetransactionp
 
 **A personal reflection:** we're all being told to become influencers now. Post 2-3x a week. Build your personal brand. There are LinkedIn ghostwriters specifically designed to help B2B founders go viral.
 
-Algorithmic discovery is increasingly how you get found - I [wrote about how this affects hiring too](/posts/the-algorithm-doesnt-know-you/). But I keep coming back to Andrew Chen's [Law of Shitty Clickthroughs](https://andrewchen.com/the-law-of-shitty-clickthroughs/?utm_source=angela-grow). Every channel degrades when enough people start gaming it. LinkedIn is not immune to that.
+Algorithmic discovery is increasingly how you get found. But I keep coming back to Andrew Chen's [Law of Shitty Clickthroughs](https://andrewchen.com/the-law-of-shitty-clickthroughs/?utm_source=angela-grow). Every channel degrades when enough people start gaming it. LinkedIn is not immune to that.
 
 As with all things growth and marketing - the playbook works - until everyone's running it.
 
