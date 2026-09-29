@@ -296,7 +296,6 @@ body.site {
 
 .content p,
 .content li {
-  text-wrap: pretty;
   hanging-punctuation: first;
 }
 
@@ -544,7 +543,6 @@ body.site {
   font-size: 1.375rem;
   line-height: 1.5;
   color: var(--ink);
-  text-wrap: pretty;
 }
 
 .home-section {
