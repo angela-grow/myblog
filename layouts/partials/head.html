@@ -2,7 +2,8 @@
 {{- $author := or .Params.author site.Params.author.name -}}
 <meta charset="utf-8" />
 <meta name="language" content="{{ site.Language.LanguageName | default "en" }}" />
-<meta name="viewport" content="width=device-width" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="color-scheme" content="light dark" />
 <title>
   {{- if .IsHome }}
     {{- or site.Params.homeTitle site.Title }}
@@ -34,72 +35,6 @@
 {{- end }}
 {{ partialCached "head/css" . }}
 {{ partialCached "head/js" . }}
-<style>
-  /* Accent color for links in post content */
-  article.main a {
-    color: #0f766e !important;
-  }
-  article.main a:hover {
-    color: #0d9488 !important;
-  }
-  /* Accent color for post list links */
-  .not-prose a {
-    color: #0f766e;
-    text-decoration-color: #99d4cf;
-  }
-  .not-prose a:hover {
-    color: #0d9488;
-    text-decoration-color: #0f766e;
-  }
-
-  /* Header: teal name treatment */
-  a.site-title {
-    color: #0f766e;
-  }
-  a.site-title:hover {
-    color: #0d9488;
-  }
-
-  /* Work With Me: service tier cards */
-  .work-with-me article.main hr {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-  }
-  .work-with-me article.main h3:not(:last-of-type) {
-    background-color: #4a9490;
-    color: white !important;
-    border: 1px solid #4a9490;
-    border-bottom: none;
-    padding: 0.75rem 1rem 0.5rem 1rem;
-    margin-top: 0;
-    margin-bottom: 0;
-    border-radius: 0.5rem 0.5rem 0 0;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.06);
-    font-size: 1.05rem;
-  }
-  .work-with-me article.main h3:not(:last-of-type) a {
-    display: none;
-  }
-  .work-with-me article.main h3:not(:last-of-type) + p,
-  .work-with-me article.main h3:not(:last-of-type) + p + p,
-  .work-with-me article.main h3:not(:last-of-type) + p + p + p {
-    border-left: 1px solid #e5e2de;
-    border-right: 1px solid #e5e2de;
-    padding: 0.4rem 1rem;
-    margin-top: 0;
-    margin-bottom: 0;
-    font-size: 0.95em;
-  }
-  .work-with-me article.main h3:not(:last-of-type) + p {
-    padding-top: 0.75rem;
-  }
-  .work-with-me article.main h3:not(:last-of-type) + p + p + p {
-    border-bottom: 1px solid #e5e2de;
-    border-radius: 0 0 0.5rem 0.5rem;
-    padding-bottom: 0.875rem;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.06);
-  }
-</style>
 {{- if or .Params.math site.Params.math }}
   {{ partial "head/math" . }}
 {{- end }}
