@@ -3,7 +3,7 @@
 <meta charset="utf-8" />
 <meta name="language" content="{{ site.Language.LanguageName | default "en" }}" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta name="color-scheme" content="light dark" />
+<meta name="color-scheme" content="light" />
 <script>
   // Set the theme before first paint so there's no flash of the wrong one.
   (function () {
@@ -11,8 +11,8 @@
     try {
       theme = localStorage.getItem('theme');
     } catch (e) {}
-    if (theme !== 'light' && theme !== 'dark') {
-      theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    if (theme !== 'dark') {
+      theme = 'light';
     }
     document.documentElement.setAttribute('data-theme', theme);
   })();

@@ -26,18 +26,6 @@
       label();
     });
 
-    // Follow system changes until the viewer picks a theme themselves.
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function (e) {
-      var saved;
-      try {
-        saved = localStorage.getItem('theme');
-      } catch (err) {}
-      if (!saved) {
-        root.setAttribute('data-theme', e.matches ? 'dark' : 'light');
-        label();
-      }
-    });
-
     label();
   })();
 </script>
