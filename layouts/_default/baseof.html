@@ -6,15 +6,16 @@
   <head>
     {{ partial "head.html" . }}
   </head>
-  <body style="background-color: #faf9f7;" class="{{ with .RelPermalink }}{{ . | strings.TrimRight "/" | strings.TrimLeft "/" | replaceRE "[/]" "-" | default "home" }}{{ else }}home{{ end }}">
-    <div class="container mx-auto flex max-w-prose flex-col space-y-10 p-4 md:p-6">
-      <header class="flex flex-row items-center justify-between border-b border-neutral-200" style="padding-bottom: 1rem;">
+  <body class="site {{ with .RelPermalink }}{{ . | strings.TrimRight "/" | strings.TrimLeft "/" | replaceRE "[/]" "-" | default "home" }}{{ else }}home{{ end }}">
+    <a class="skip-nav" href="#maincontent">Skip to main content</a>
+    <div class="site-wrap">
+      <header class="site-header">
         {{ partial "header.html" . }}
       </header>
-      <main class="prose prose-slate relative md:prose-lg prose-h1:text-[2em]" id="maincontent">
+      <main class="site-main" id="maincontent">
         {{ block "main" . }}{{ end }}
       </main>
-      <footer class="mt-20 border-t border-neutral-100 pt-2 text-xs">
+      <footer class="site-footer">
         {{ partial "footer.html" . }}
       </footer>
     </div>
@@ -28,7 +29,7 @@
         mermaid.initialize({
           startOnLoad: true,
           theme: 'neutral',
-          fontFamily: "'LatoLatinWeb', sans-serif"
+          fontFamily: "'Figtree', sans-serif"
         });
       </script>
     {{ end }}

@@ -1,21 +1,22 @@
 {{ define "main" }}
   {{- $imgResources := .Resources.ByType "image" -}}
-  <article class="main">
-    <header>
-      <h1 class="!mb-1">{{ .Title }}</h1>
+  {{- $isPost := eq .Section "posts" -}}
+  <article class="content">
+    <header class="post-header">
+      <h1>{{ .Title }}</h1>
 
-      {{- with .Date }}
-        {{- $dateMachine := . | time.Format "2006-01-02T15:04:05-07:00" -}}
-        {{- $dateHuman := . | time.Format (default ":date_long" site.Params.dateFormat) -}}
-        <div class="flex flex-row items-center space-x-4">
-          <time class="text-sm italic opacity-80" datetime="{{ $dateMachine }}"
-            >{{ $dateHuman }}</time
-          >
-        </div>
+      {{- if $isPost }}
+        {{- with .Date }}
+          {{- $dateMachine := . | time.Format "2006-01-02T15:04:05-07:00" -}}
+          {{- $dateHuman := . | time.Format (default ":date_long" site.Params.dateFormat) -}}
+          <p class="meta">
+            <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time> · {{ $.ReadingTime }} min read
+          </p>
+        {{- end }}
       {{- end }}
 
       {{- with $imgResources.GetMatch "{*feature*,*cover*}" }}
-        <figure class="feature-image !mb-20 block text-center">
+        <figure class="feature-image">
           <img
             src="{{ .RelPermalink }}"
             width="{{ .Width }}"
@@ -23,7 +24,7 @@
             alt="{{ $.Params.FeatureCaption }}"
           />
           {{- with $.Params.FeatureCaption }}
-            <figcaption class="text-xs italic">{{ . |  markdownify }}</figcaption>
+            <figcaption>{{ . | markdownify }}</figcaption>
           {{- end }}
         </figure>
       {{- end }}
@@ -32,7 +33,20 @@
     {{ .Content }}
   </article>
 
-  {{- if or (eq .Section "posts") (eq .Section "notes") }}
-    {{ partial "page/meta" . }}
+  {{- if $isPost }}
+    <footer class="post-footer">
+      <div class="author-card">
+        <p><strong>I'm {{ site.Params.author.name }}</strong> - a growth leader with 15+ years scaling acquisition, retention and revenue. I work with a small number of founders and growth teams at a time.</p>
+        <a class="button" href="{{ relURL "work-with-me/" }}">Work with me →</a>
+      </div>
+
+      {{- $more := where (where site.RegularPages "Section" "posts") "Permalink" "!=" .Permalink | first 3 }}
+      {{- with $more }}
+        <section class="more-posts">
+          <h2 class="eyebrow">More writing</h2>
+          {{ partial "posts/list.html" . }}
+        </section>
+      {{- end }}
+    </footer>
   {{- end }}
 {{ end }}

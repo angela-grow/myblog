@@ -1,22 +1,20 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+  <header class="post-header content">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  </header>
 
-  {{ .Content }}
+  {{ $pages := where site.RegularPages "Section" "posts" }}
+  {{ $pager := .Paginate ($pages.GroupByDate "2006") 20 }}
 
-  <div class="flex flex-col space-y-8">
-    {{ $pages := where site.RegularPages "Section" "posts" }}
-    {{ $pager := .Paginate ($pages.GroupByDate "2006") 20 }}
+  {{- range $pager.PageGroups }}
+    <section class="year-group">
+      <h2 class="eyebrow">{{ .Key }}</h2>
+      {{ partial "posts/list.html" .Pages }}
+    </section>
+  {{- end }}
 
-    {{- range $pager.PageGroups }}
-      <section class="not-prose flex flex-col space-y-4">
-        <h2 class="text-xl font-semibold opacity-60 text-right border-b">{{ .Key }}</h2>
-
-        {{ partial "posts/list.html" .Pages }}
-      </section>
-    {{- end }}
-
-    {{- if gt $pager.TotalPages 1 }}
-      {{ partial "pagination.html" . }}
-    {{- end }}
-  </div>
+  {{- if gt $pager.TotalPages 1 }}
+    {{ partial "pagination.html" . }}
+  {{- end }}
 {{ end }}

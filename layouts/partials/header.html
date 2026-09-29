@@ -1,5 +1,2 @@
-<div>
-  <a id="skip-nav" class="sr-only" href="#maincontent">Skip to main content</a>
-  <a class="text-xl font-semibold site-title" href="{{ .Site.Home.RelPermalink }}">{{ site.Title }}</a>
-</div>
+<a class="site-title" href="{{ .Site.Home.RelPermalink }}">{{ site.Title }}</a>
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
